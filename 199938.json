@@ -1,14 +1,7 @@
 [
-  {
-    "id": 1,
-    "description": "https://www.example.com/page1"
-  },
-  {
-    "id": 2,
-    "description": "https://www.example.com/page2"
-  },
-  {
-    "id": 3,
-    "description": "https://www.example.com/page3"
-  }
+  "Description 1",
+  "Description 2",
+  "Description 3",
+  "Description 4",
+  "Description 5"
 ]
